@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+table {
+    border-collapse: collapse;
+}
+tr {
+    border-bottom: 1px solid #ddd;
+}
+th {
+    background-color: #d7d4d9;
+}
+tr:first-child {
+    border-top: 1px solid #ddd;
+}
+td, th {
+    border-right: 1px solid #ddd;
+    padding: 5px 10px;
+}
+td:first-child, th:first-child {
+    border-left: 1px solid #ddd;
+}

@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "emailid": "test1@restest.com",
+            "fname": "test1",
+            "lname": "test1"
+        },
+        {
+            "emailid": "test2@restest.com",
+            "fname": "test2",
+            "lname": "test2"
+        },
+        {
+            "emailid": "test3@restest.com",
+            "fname": "test3",
+            "lname": "test3"
+        },
+        {
+            "emailid": "test4@restest.com",
+            "fname": "test4",
+            "lname": "test4"
+        },
+        {
+            "emailid": "test5@restest.com",
+            "fname": "test5",
+            "lname": "test5"
+        },
+        {
+            "emailid": "test6@restest.com",
+            "fname": "test6",
+            "lname": "test6"
+        }
+    ]
+}
